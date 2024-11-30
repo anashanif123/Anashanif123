@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm MUHAMMAD ANAS</h1>
 <h3 align="center">A passionate frontend developer from Pakitan</h3>
-<img align="center" alt="Coding" width="880" src="https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anashanif123&label=Profile%20views&color=0e75b6&style=flat" alt="anashanif123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anashanif123" alt="anashanif123" /></a> </p>
-
+<img align="right" alt="Coding" width="500"  src="https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif">
 - 🔭 I’m currently working on Dms **doctor apppointoment system**
 
 - 🌱 I’m currently learning **react native, expresss Js, node Js,**
